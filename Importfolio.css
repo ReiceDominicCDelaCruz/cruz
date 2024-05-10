@@ -1,0 +1,11 @@
+.heads{text-align:center;background-color:#66C7DF;border:5px solid;border-radius:20px;font-family:Courier New}
+.pics{border:10px solid}
+.para1{font-family:Comic Sans;font-size:30px;text-align:center;}
+.para2{font-family:Comic Sans;font-size:30px;}
+.av-container{display: flex;justify-content:center;align-items: center;}
+.background{background-image: url(BG.gif);background-position:center;background-size:cover;overflow: hidden;}
+div.relative{position:relative;left:340px;bottom:260px;text-align:left;font-size:30px;}
+div.relative1{position:relative;left:340px;bottom:310px;text-align:left;font-size:30px;}
+div.relative2{position:relative;left:340px;bottom:210px;text-align:left;font-size:30px;}
+.white{text-color:white;font-family:Comic Sans;font-size:10px;}
+#image{display:block;margin-left: auto;margin-right: auto;}  
